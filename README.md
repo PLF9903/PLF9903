@@ -22,7 +22,7 @@ where I can apply in practice what I’m learning throughout my academic journey
 * Tcl
 
 ### ⚙️ Compiler Toolchains
-* GCC ( * `arm-linux-gnueabi-gcc`, * `arm-none-eabi-gcc`, ...)
+* GCC (  `arm-linux-gnueabi-gcc`,  `arm-none-eabi-gcc`, ...)
 
 ### 🖥️ Emulation & Virtualization
 * QEMU
